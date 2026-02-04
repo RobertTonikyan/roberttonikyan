@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Robert Tonikyan 👋 🔵🔴
 
-<!--
-**RobertTonikyan/roberttonikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I am a passionate developer who loves building scalable solutions and exploring how things work from the high-level UI down to low-level systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Java, Python (Basic), Node.js
+- **Database & Cloud:** SQL, Firebase
+- **Low Level:** 8086 Assembly
+
+---
+
+### 📊 My GitHub Stats
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberttonikyan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttonikyan&layout=compact&theme=tokyonight)
+
+---
+
+### 🛠️ Favorite Tools & Tech
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,firebase,mysql,py,apple,vscode" />
+</p>
+
+---
+
+### 📫 Connect with me:
+ roberttonikyan99@gmail.com
+
+---
+*"Building the future, one semi-colon at a time."*
