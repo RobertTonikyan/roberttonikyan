@@ -13,11 +13,6 @@ I am a passionate developer who loves building scalable solutions and exploring 
 - **Database & Cloud:** SQL, Firebase
 - **Low Level:** 8086 Assembly
 
----
-
-### 📊 My GitHub Stats
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberttonikyan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttonikyan&layout=compact&theme=tokyonight)
 
 ---
 
